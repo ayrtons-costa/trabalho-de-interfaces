@@ -1,2 +1,2 @@
 # trabalho de interfaces
-site web
+site web - desktop
